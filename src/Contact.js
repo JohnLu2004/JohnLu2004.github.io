@@ -6,7 +6,7 @@ const Contact = () => {
         <div className="Boop">
             <div>
                 <h1 class = "Section-Title">Contact Information</h1>
-                <h2>Email: example@gmail.com</h2>
+                <h2>Email: johnlu10212004@gmail.com</h2>
             </div>
             
         <div className="wrapper">
